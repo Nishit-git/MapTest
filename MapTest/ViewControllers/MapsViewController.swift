@@ -28,7 +28,6 @@ class MapsViewController: UIViewController, UITextFieldDelegate, MKMapViewDelega
     //44.050098, -79.892573
     //(43.597745, -79.640488)
     
-   // var loc = Location(filename:"Coordinates")
     var Steps = ["Enter a destination to see the Route"]
     
     func textFieldShouldReturn(_ textField: UITextField) -> Bool {
